@@ -24,9 +24,7 @@ The configuration method of these environments can refer to the [link](https://g
 # Experimental results
 ## Compare network structure
 .<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/net_success_rate.jpg" width="450" height="300" />
-
-![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/net_success_rate.jpg)
-![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/net_loss.jpg)
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/net_loss.jpg" width="450" height="300" />
 
 ## Compare PPO with PPO+IL
 ![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/rewards.png)
