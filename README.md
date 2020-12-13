@@ -23,14 +23,14 @@ The configuration method of these environments can refer to the [link](https://g
 
 # Experimental results
 ## Compare network structure
-.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/net_success_rate.jpg" width="450" height="300" />
-.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/net_loss.jpg" width="450" height="300" />
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/net_success_rate.jpg" width="400" height="300" />
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/net_loss.jpg" width="400" height="300" />
 
 ## Compare PPO with PPO+IL
-.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/rewards.png" width="450" height="300" />
-.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/test_average_step.png" width="450" height="300" />
-.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/test_success_rate.png" width="450" height="300" />
-.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/loss.png" width="450" height="300" />
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/rewards.png" width="400" height="300" />
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/test_average_step.png" width="400" height="300" />
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/test_success_rate.png" width="400" height="300" />
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/loss.png" width="400" height="300" />
 
 ## Compare our method with others
 .<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/table.jpg"/>
