@@ -27,13 +27,13 @@ The configuration method of these environments can refer to the [link](https://g
 .<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/net_loss.jpg" width="450" height="300" />
 
 ## Compare PPO with PPO+IL
-![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/rewards.png)
-![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/test_average_step.png)
-![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/test_success_rate.png)
-![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/loss.png)
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/rewards.png" width="450" height="300" />
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/test_average_step.png" width="450" height="300" />
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/test_success_rate.png" width="450" height="300" />
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/loss.png" width="450" height="300" />
 
 ## Compare our method with others
-![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/table.jpg)
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/table.jpg" width="450" height="300" />
 
 ### Remark
 Part of the code in this project refers to [SceneMover](https://github.com/HanqingWangAI/SceneMover), if you use the code of this project, please refer to this project and [SceneMover](https://github.com/HanqingWangAI/SceneMover)
