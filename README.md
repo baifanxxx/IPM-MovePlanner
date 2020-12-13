@@ -23,17 +23,17 @@ The configuration method of these environments can refer to the [link](https://g
 
 # Experimental results
 ## Compare network structure
-![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/net_success_rate.jpg)
-![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/net_loss.jpg)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/net_success_rate.jpg)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/net_loss.jpg)
 
 ## Compare PPO with PPO+IL
-![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/rewards.png)
-![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/test_average_step.png)
-![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/test_success_rate.png)
-![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/loss.png)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/rewards.png)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/test_average_step.png)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/test_success_rate.png)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/loss.png)
 
 ## Compare our method with others
-![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/table.jpg)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/table.jpg)
 
 ### Remark
 Part of the code in this project refers to [SceneMover](https://github.com/HanqingWangAI/SceneMover), if you use the code of this project, please refer to this project and [SceneMover](https://github.com/HanqingWangAI/SceneMover)
