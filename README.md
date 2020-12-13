@@ -9,12 +9,12 @@ We have implemented an efficient IPM-Move Planner, with specific contributions a
 ![image](https://github.com/baifanxxx/IPM-MovePlanner/IPM-MovePlaner/figs/Structure diagram.png)
 
 # Environment Installation
-## 1. Install Requirements
-  ### python 3.6
-  ### pytorch 1.7.1
-  ### CUDA 10.1
-  ### tensorflow 1.15.0
-## 2. Build Files 
+1. Install Requirements
+  python 3.6
+  pytorch 1.7.1
+  CUDA 10.1
+  tensorflow 1.15.0
+2. Build Files 
 ```
   cd src/utils
   g++ -shared -O2 search.cpp --std=c++11 -ldl -fPIC -o search.so
@@ -23,18 +23,18 @@ The configuration method of these environments can refer to the [link](https://g
 
 # Experimental results
 ## Compare network structure
-![image](https://github.com/baifanxxx/IPM-MovePlanner/IPM-MovePlaner/figs/net_success_rate.jpg)
-![image](https://github.com/baifanxxx/IPM-MovePlanner/IPM-MovePlaner/figs/net_loss.jpg)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/net_success_rate.jpg)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/net_loss.jpg)
 
 ## Compare PPO with PPO+IL
-![image](https://github.com/baifanxxx/IPM-MovePlanner/IPM-MovePlaner/figs/rewards.png)
-![image](https://github.com/baifanxxx/IPM-MovePlanner/IPM-MovePlaner/figs/test_average_step.png)
-![image](https://github.com/baifanxxx/IPM-MovePlanner/IPM-MovePlaner/figs/test_success_rate.png)
-![image](https://github.com/baifanxxx/IPM-MovePlanner/IPM-MovePlaner/figs/loss.png)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/rewards.png)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/test_average_step.png)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/test_success_rate.png)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/loss.png)
 
 ## Compare our method with others
-![image](https://github.com/baifanxxx/IPM-MovePlanner/IPM-MovePlaner/figs/table.jpg)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/tree/main/IPM-MovePlaner/figs/table.jpg)
 
-# Remark
+### Remark
 Part of the code in this project refers to [SceneMover](https://github.com/HanqingWangAI/SceneMover), if you use the code of this project, please refer to this project and [SceneMover](https://github.com/HanqingWangAI/SceneMover)
 
