@@ -6,7 +6,7 @@ We have implemented an efficient IPM-Move Planner, with specific contributions a
 2. Directly pre-training the policy network through supervised imitation learning, and then using PPO to train the policy value network to learn advanced policy, thus achieving the purpose of learning complex policy only with a lightweight network.
 3. Combined the lightweight policy value network with MCTS to achieve an efficient long-term decision model.
 
-![image](https://github.com/baifanxxx/IPM-MovePlanner/IPM-MovePlaner/figs/Structure diagram.png)
+![image](https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/Structure_diagram.png)
 
 # Environment Installation
 1. Install Requirements
