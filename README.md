@@ -33,7 +33,7 @@ The configuration method of these environments can refer to the [link](https://g
 .<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/loss.png" width="450" height="300" />
 
 ## Compare our method with others
-.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/table.jpg" width="450" height="300" />
+.<img src="https://github.com/baifanxxx/IPM-MovePlanner/blob/main/IPM-MovePlaner/figs/table.jpg"/>
 
 ### Remark
 Part of the code in this project refers to [SceneMover](https://github.com/HanqingWangAI/SceneMover), if you use the code of this project, please refer to this project and [SceneMover](https://github.com/HanqingWangAI/SceneMover)
